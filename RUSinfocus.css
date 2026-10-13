@@ -90,6 +90,17 @@ nav ul li a {
   background: #004d4d;
 }
 
+/* Connect Section */
+.connect {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.connect a.cta-button {
+  display: inline-block;
+}
+
 /* Footer */
 footer {
   background: #333;
